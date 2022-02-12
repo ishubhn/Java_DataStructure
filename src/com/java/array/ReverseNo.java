@@ -1,3 +1,4 @@
+package com.java.array;
 
 public class ReverseNo {
 	public int isReverse (int num) {
